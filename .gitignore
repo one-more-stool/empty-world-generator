@@ -1,0 +1,12 @@
+.gradle/
+build/
+out/
+dist/
+.local/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+test-all-versions.bat
+build-mod.bat
+build-all-versions.bat
